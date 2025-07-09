@@ -2,7 +2,8 @@
 
 A sleek and responsive Password Generator built using **HTML**, **CSS**, and **JavaScript**. It allows users to create secure passwords based on customizable options.
 
-![Password Generator Screenshot](./assets/screenshot.png)
+![image](https://github.com/user-attachments/assets/6d8ae010-5b67-42c7-8fdc-2f687f56f0e5)
+
 
 ---
 
