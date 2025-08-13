@@ -27,7 +27,7 @@ A simple web-based tool to generate strong, random passwords with customizable l
 - Fully responsive design
 
 ## Live Demo
-[Click here to try it](https://rajeshkumar.github.io/password-generator/)
+[Click here to try it]([https://rajeshkumar.github.io/password-generator/](https://rajesh9801.github.io/Password-Generator/)
 
 ## Installation
 1. Clone the repo:
